@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chrishop/spot-40/static/css/main.b100e6da.chunk.css",
-    "main.js": "/chrishop/spot-40/static/js/main.955ef0b4.chunk.js",
-    "main.js.map": "/chrishop/spot-40/static/js/main.955ef0b4.chunk.js.map",
-    "runtime-main.js": "/chrishop/spot-40/static/js/runtime-main.d99604b9.js",
-    "runtime-main.js.map": "/chrishop/spot-40/static/js/runtime-main.d99604b9.js.map",
-    "static/js/2.08a732c4.chunk.js": "/chrishop/spot-40/static/js/2.08a732c4.chunk.js",
-    "static/js/2.08a732c4.chunk.js.map": "/chrishop/spot-40/static/js/2.08a732c4.chunk.js.map",
-    "index.html": "/chrishop/spot-40/index.html",
-    "precache-manifest.9f5aec6bb4ab9bc3248718d49603df9d.js": "/chrishop/spot-40/precache-manifest.9f5aec6bb4ab9bc3248718d49603df9d.js",
-    "service-worker.js": "/chrishop/spot-40/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/chrishop/spot-40/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/chrishop/spot-40/static/media/logo.25bf045c.svg"
+    "main.css": "/spot-40/static/css/main.b100e6da.chunk.css",
+    "main.js": "/spot-40/static/js/main.17ddda1d.chunk.js",
+    "main.js.map": "/spot-40/static/js/main.17ddda1d.chunk.js.map",
+    "runtime-main.js": "/spot-40/static/js/runtime-main.2b747167.js",
+    "runtime-main.js.map": "/spot-40/static/js/runtime-main.2b747167.js.map",
+    "static/js/2.08a732c4.chunk.js": "/spot-40/static/js/2.08a732c4.chunk.js",
+    "static/js/2.08a732c4.chunk.js.map": "/spot-40/static/js/2.08a732c4.chunk.js.map",
+    "index.html": "/spot-40/index.html",
+    "precache-manifest.7ffc871f6e97314c8beec9abbf2e8205.js": "/spot-40/precache-manifest.7ffc871f6e97314c8beec9abbf2e8205.js",
+    "service-worker.js": "/spot-40/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/spot-40/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/spot-40/static/media/logo.25bf045c.svg"
   }
 }
