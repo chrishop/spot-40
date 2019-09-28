@@ -25,7 +25,7 @@ const App = () => {
   const FORMAT = 'dd/MM/yyyy';
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <h1>Hello Sunghee</h1>
       <DayPickerInput
         formatDate={formatDate}
         format={FORMAT}
